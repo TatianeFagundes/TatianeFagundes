@@ -1,6 +1,7 @@
 ## Bem vindo ao meu perfil! :computer: :wave:
 #### Me chamo Tatiane Fagundes! ####
-📚 Sou Estudante de Análise e Desenvolvimento de Sistemas 
+📚 Estudante de Análise e Desenvolvimento de Sistemas
+<p> 📚 MBA Big Data <p>
 <p> ⚡ Apaixonada por tecnologia <p>
 <p> 🚀 Bootcamp ITAU | Back-and Developer <p>
  
