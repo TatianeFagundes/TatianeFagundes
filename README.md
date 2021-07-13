@@ -12,7 +12,7 @@
   * CSS 
   * GIT
   * MySQL 
-  * Python 
+  * PYTHON
   * JAVA
   * SPRING BOOT
   * AWS
