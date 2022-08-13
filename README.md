@@ -1,22 +1,23 @@
 ## Bem vindo ao meu perfil! :computer: :wave:
 #### Me chamo Tatiane Fagundes! ####
-📚 Estudante de Análise e Desenvolvimento de Sistemas
+📚 Estudante de Sistema de Informação
 <p> 📚 MBA Big Data <p>
-<p> ⚡ Apaixonada por tecnologia <p>
-<p> 🚀 Bootcamp ITAU | Back-and Developer <p>
+<p> 🎲 Apaixonada por dados <p>
+<p> 🚀 Certificação AWS PRACTITIONER <p>
  
 
 #### Minhas Habilidades Técnicas_ :dart: :books:
 
-  * HTML 
-  * CSS 
-  * GIT
-  * MySQL 
-  * PYTHON
-  * JAVA
-  * SPRING BOOT
-  * AWS
+  * SQL 
+  * GIT  
+  * PYTHON 
+  * AWS PRACTITIONER
   * POWER BI/DASHBOARD
+  * TABLEAU
+  * ALTERYX
+  * ATHENA
+  * GLUE
+  * QUICKSIGHT
 
 
 <!--
