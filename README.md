@@ -11,7 +11,7 @@
   * SQL 
   * GIT  
   * PYTHON 
-  * AWS PRACTITIONER
+  * AWS 
   * POWER BI/DASHBOARD
   * TABLEAU
   * ALTERYX
