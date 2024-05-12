@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil! :computer: :wave:
 #### Me chamo Tatiane Fagundes! ####
-📚 Estudante de Sistema de Informação
+🎓 Analista de Sistema - Atuando como Engenheira de Analytics Plena
 <p> 🎓 MBA Big Data <p>
 <p> 🎲 Apaixonada por dados <p>
 <p> 🚀 Certificação AWS PRACTITIONER <p>
